@@ -1,0 +1,57 @@
+TECHCARE TROUBLESHOOTING GUIDE
+
+LAPTOP NOT TURNING ON
+
+Check whether the charger is properly connected.
+
+Try another compatible power outlet.
+
+Make sure the charging indicator is working if the device has one.
+
+If the laptop still does not turn on, contact TechCare technical support.
+
+
+LAPTOP RUNNING SLOWLY
+
+Restart the laptop.
+
+Close unnecessary applications.
+
+Check available storage space.
+
+If the problem continues, contact technical support.
+
+
+BLUETOOTH NOT CONNECTING
+
+Make sure Bluetooth is enabled.
+
+Keep the devices close together.
+
+Remove the previous Bluetooth pairing.
+
+Try pairing the devices again.
+
+If the problem continues, contact technical support.
+
+
+BUDS NOT CHARGING
+
+Check whether the charging case has sufficient power.
+
+Check whether the earbuds are correctly positioned in the charging case.
+
+Try another compatible charging cable.
+
+If the issue continues, contact technical support.
+
+
+SMARTWATCH NOT CONNECTING
+
+Make sure Bluetooth is enabled.
+
+Keep the smartwatch close to the phone.
+
+Restart Bluetooth and try connecting again.
+
+If the problem continues, contact TechCare support.

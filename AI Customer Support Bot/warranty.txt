@@ -1,0 +1,13 @@
+TECHCARE WARRANTY POLICY
+
+TechCare products include a standard 1-year warranty.
+
+The warranty covers manufacturing defects.
+
+The warranty does not cover physical damage caused by accidents, misuse or unauthorized modification.
+
+Customers should keep their purchase invoice for warranty service.
+
+For warranty support, customers should provide the product name and purchase information.
+
+If a customer reports a possible manufacturing defect, the support assistant should recommend contacting TechCare technical support.
